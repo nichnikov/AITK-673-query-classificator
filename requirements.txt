@@ -1,0 +1,8 @@
+pandas
+datasets
+sentence-transformers
+nltk
+accelerate
+datasets
+adapters
+FlagEmbedding
