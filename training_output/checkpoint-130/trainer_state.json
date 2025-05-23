@@ -1,4 +1,5 @@
 {
+  "best_global_step": null,
   "best_metric": null,
   "best_model_checkpoint": null,
   "epoch": 1.0,

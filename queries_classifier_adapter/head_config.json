@@ -18,6 +18,6 @@
   "model_class": "XLMRobertaAdapterModel",
   "model_name": "BAAI/bge-m3",
   "model_type": "xlm-roberta",
-  "name": "rotten_tomatoes",
-  "version": "adapters.1.1.1"
+  "name": "queries_4classes",
+  "version": "adapters.1.2.0"
 }

@@ -7,6 +7,7 @@
     "factorized_phm_rule": false,
     "hypercomplex_nonlinearity": "glorot-uniform",
     "init_weights": "bert",
+    "init_weights_seed": null,
     "inv_adapter": null,
     "inv_adapter_reduction_factor": null,
     "is_parallel": false,
@@ -37,6 +38,6 @@
   "model_class": "XLMRobertaAdapterModel",
   "model_name": "BAAI/bge-m3",
   "model_type": "xlm-roberta",
-  "name": "rotten_tomatoes",
-  "version": "adapters.1.1.1"
+  "name": "queries_4classes",
+  "version": "adapters.1.2.0"
 }
